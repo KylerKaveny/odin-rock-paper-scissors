@@ -1,0 +1,9 @@
+.displayResult {
+    background-color: lightblue;
+    color: black;
+    font-size: 18px;
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    border: 10px;
+}
